@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* English (EgyBest) */
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Arabic (Tajawal) */
+.tajawal-extralight { font-family: "Tajawal", sans-serif; font-weight: 200; }
+.tajawal-light      { font-family: "Tajawal", sans-serif; font-weight: 300; }
+.tajawal-regular    { font-family: "Tajawal", sans-serif; font-weight: 400; }
+.tajawal-medium     { font-family: "Tajawal", sans-serif; font-weight: 500; }
+.tajawal-bold       { font-family: "Tajawal", sans-serif; font-weight: 700; }
+.tajawal-extrabold  { font-family: "Tajawal", sans-serif; font-weight: 800; }
+.tajawal-black      { font-family: "Tajawal", sans-serif; font-weight: 900; }
