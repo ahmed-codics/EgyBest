@@ -69,7 +69,7 @@ export default function Services() {
           </h2>
           <p className="text-xl text-blue-600 max-w-3xl mx-auto leading-relaxed tajawal-regular">
             نقدم مجموعة متكاملة من خدمات الشحن التي تلبي جميع احتياجاتك بدءاً من
-            الشحن المحلي وحتى الدولي
+            الشحن الدولي
           </p>
         </motion.div>
 
