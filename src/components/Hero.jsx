@@ -74,7 +74,7 @@ export default function Hero() {
           isVisible ? "translate-y-0 opacity-100" : "translate-y-10 opacity-0"
         }`}
       >
-        أفضل مكتب شحن في مصر
+        أفضل شركة شحن في مصر
       </p>
 
       {/* Description (Tajawal Regular) */}
